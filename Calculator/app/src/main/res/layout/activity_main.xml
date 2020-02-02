@@ -16,8 +16,7 @@
         android:paddingTop="24dp"
         android:paddingRight="16dp"
         android:paddingBottom="16dp"
-        android:text="21 + 36 * 89"
-        border
+        android:text=""
         android:textColor="@color/colorAccent"
         android:textSize="20sp"
         app:layout_constraintBottom_toTopOf="@+id/result"
@@ -35,7 +34,7 @@
         android:paddingTop="16dp"
         android:paddingRight="16dp"
         android:paddingBottom="16dp"
-        android:text="537"
+        android:text="0"
         android:textColor="@color/colorAccent"
         android:textSize="40sp"
         android:textStyle="bold"
